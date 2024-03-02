@@ -1,16 +1,23 @@
 # women_safety_app
 
-A new Flutter application.
+A cross Plateform Application which can run on android and as well as IOS devices with help of Dart Language.
 
-## Getting Started
+A women safety application is a mobile application designed to enhance the safety and security of women. 
+It aims to provide an immediate response to women who feel threatened or endangered in any way. 
+The application typically includes features such as emergency alerts, GPS tracking, and  SOS feature that can be used to quickly alert family and friends, emergency services, or any pre-set contacts.This application also include many safely tips and tricks for women to practice the moves so that she can prevent herself from any attacks.
+This application will also play one police siren sound so that the attackers will get threatened.
+This women's safety app will also alert nearby Police station to notify about her safety issues along with location of the user's phone and the Audio recording upto 2-3 minutes which will automatically get recorded once the phone starts shaking.
+This application also helps the user to highlight the nearby places /area where crime rate is high and not to visit that place and to be cautious about the surrounding environment.
 
-This project is a starting point for a Flutter application.
+# Features:
+1. Track Location
+2. Send SOS alert to emergency contacts.
+3. Records the surrounding voice.
+4. Plays police siren sound to distract attackers.
+5. Include Safety tricks and moves for prevention from attack.
 
-A few resources to get you started if this is your first Flutter project:
+   Loading Page   |    Home Page
+   :-------------:|:--------------------:
+   ![Screenshot_2024-03-02-17-41-09-86_b257c5077f945074331bd43a257b5f99](https://github.com/AbhishekPawshekar/Women-Safety-Flutter-App/assets/89447125/d7d69af0-7eef-48bf-bca8-221147e11589) | ![Uploading Screenshot_2024-03-02-17-41-17-50_b257c5077f945074331bd43a257b5f99.jpg…]()
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
